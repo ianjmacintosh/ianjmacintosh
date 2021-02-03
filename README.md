@@ -2,6 +2,13 @@
 
 My name's Ian MacIntosh, I help engineering teams perform even better. My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects.
 
+## Hobbies
+
+- 🏍 Motorcycling
+- 📷 Photography and videography
+- 🗺 World travel
+- 🤿 Scuba diving
+
 ## Recent Work
 
 ### ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
