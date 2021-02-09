@@ -31,6 +31,7 @@ TapCount is a utility app ([Android](https://play.google.com/store/apps/details?
 - Built with React
 - Tested with Jest and Testing Library (81.7% code coverage)
 - Transpiled for Android and iOS using Apache Cordova
+- Published to Google Play Store
 
 ## 🕹 [Pozo](https://pozo.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/pozo))
 
