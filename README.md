@@ -14,7 +14,7 @@ You'll usually find me:
 
 My last titles were "Architect" and "Principal Software Engineer," where I provided the most value giving technical oversight, guidance, and mentoring. But I still like getting my hands dirty with personal projects; it's hard to lead without the understanding you can only get from hands-on experience.
 
-# Stuff I Like Working With
+# ✨ Stuff I Like Working With
 
 - **#️⃣ Scripting**: React, Nunjucks, npm
 - **🎨 Styling**: CSS Grid, Sass/SCSS
