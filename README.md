@@ -1,6 +1,10 @@
 # About Me
 
-My name's Ian MacIntosh, I help engineering teams perform even better.
+My name's Ian MacIntosh, I help engineering teams perform even better. This means focusing on the everyday stuff, so the easy things are easy and the hard things are possible. I demonstrate how to practice good Git habits, make tickets easy to write and easier to read, perform regular code reviews with clear feedback, ensure preview environments are quickly and reliably deployed, and write documentation that reads like a series of useful tweets instead of a series of classic textbooks.
+
+_"If you don't actively fight for simplicity in software, complexity will win... and it will suck."_— [Henrik Joreteg](https://joreteg.com/blog/architecting-uis-for-change)
+
+My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects. It's hard to lead without the understanding you can only get from hands-on experience.
 
 # Things I Like Working With
 
@@ -10,11 +14,7 @@ My name's Ian MacIntosh, I help engineering teams perform even better.
 - **🚢 Code Management**: Git, GitHub, Prettier, ESLint
 - **🛠 Utilities**: VS Code, Vim, Bash
 - **⚙️ Platforms**: Eleventy, Netlify, Contentful
-- **🚀 Other**: Git wizardry, Security (OverTheWire, TryHackMe, HackTheBox, etc)
-
-## Recent Work
-
-My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects. It's hard to lead without the understanding you can only get from hands-on experience.
+- **🚀 Other**: Writing docs, learning to be a Git wizard, security/pentesting (OverTheWire, TryHackMe, HackTheBox, etc)
 
 ## ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
 
