@@ -2,7 +2,7 @@
 
 My name's Ian MacIntosh, I help engineering teams perform even better by improving the everyday _stuff_ that makes up the developer experience. I strive to keep everything as simple as possible so people can focus on their work instead of tooling.
 
-_"If you don't actively fight for simplicity in software, complexity will win... and it will suck."_— [Henrik Joreteg](https://joreteg.com/blog/architecting-uis-for-change)
+> "If you don't actively fight for simplicity in software, complexity will win... and it will suck."— _[Henrik Joreteg](https://joreteg.com/blog/architecting-uis-for-change)_
 
 You'll usually find me:
 
