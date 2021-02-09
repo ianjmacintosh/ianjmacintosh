@@ -16,13 +16,13 @@ My last titles were "Architect" and "Principal Software Engineer," where I provi
 
 # ✨ Stuff I Like Working With
 
-- **#️⃣ Scripting**: React, Nunjucks, npm
-- **🎨 Styling**: CSS Grid, Sass/SCSS
-- **📐 Testing**: Test-Driven Development, Jest, Testing Library, Cypress
-- **🚢 Code Management**: Git, GitHub, Prettier, ESLint
-- **🛠 Utilities**: VS Code, Vim, Bash
-- **⚙️ Platforms**: Eleventy, Netlify, Contentful
-- **🚀 Other**: Writing docs, studying to be a Git wizard, security/pentesting (OverTheWire, TryHackMe, HackTheBox, etc)
+- **#️⃣ Scripting**: [React](https://reactjs.org/), [Nunjucks](https://mozilla.github.io/nunjucks/), [npm](https://www.npmjs.com/)
+- **🎨 Styling**: [CSS Grid](https://drafts.csswg.org/css-grid/), [Sass/SCSS](https://sass-lang.com/)
+- **📐 Testing**: [Test-Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html), [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/), [Cypress](https://www.cypress.io/)
+- **🚢 Code Management**: [Git](https://git-scm.com/), [GitHub](https://github.com/), [Prettier](https://prettier.io/), [ESLint](https://eslint.org/)
+- **🛠 Utilities**: [VS Code](https://code.visualstudio.com/), [Vim](https://www.vim.org/), [Bash](https://www.gnu.org/software/bash/)
+- **⚙️ Platforms**: [Eleventy](https://www.11ty.dev/), [Netlify](https://www.netlify.com/), [Contentful](https://www.contentful.com/)
+- **🚀 Other**: Writing docs, studying to be a Git wizard, security/pentesting ([OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.eu/), etc)
 
 ## ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
 
