@@ -12,6 +12,8 @@ You'll usually find me:
 - Keeping code reviews moving along with clear feedback instead of getting stuck in _In Review_ purgatory
 - Writing documentation that reads like a series of useful tweets instead of a series of classic textbooks
 
+My last titles were "Architect" and "Principal Software Engineer," where I provided the most value giving technical oversight, guidance, and mentoring. But I still like getting my hands dirty with personal projects; it's hard to lead without the understanding you can only get from hands-on experience.
+
 # Stuff I Like Working With
 
 - **#️⃣ Scripting**: React, Nunjucks, npm
@@ -20,7 +22,7 @@ You'll usually find me:
 - **🚢 Code Management**: Git, GitHub, Prettier, ESLint
 - **🛠 Utilities**: VS Code, Vim, Bash
 - **⚙️ Platforms**: Eleventy, Netlify, Contentful
-- **🚀 Other**: Writing docs, learning to be a Git wizard, security/pentesting (OverTheWire, TryHackMe, HackTheBox, etc)
+- **🚀 Other**: Writing docs, studying to be a Git wizard, security/pentesting (OverTheWire, TryHackMe, HackTheBox, etc)
 
 ## ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
 
