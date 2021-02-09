@@ -2,12 +2,15 @@
 
 My name's Ian MacIntosh, I help engineering teams perform even better. My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects.
 
-## Hobbies
+# Things I Like Working With
 
-- 🏍 Motorcycling
-- 📷 Photography and videography
-- 🗺 World travel
-- 🤿 Scuba diving
+- **#️⃣ Scripting**: React, Nunjucks, npm
+- **🎨 Styling**: CSS Grid, Sass/SCSS
+- **📐 Testing**: Test-Driven Development, Jest, Testing Library, Cypress
+- **🚢 Code Management**: Git, GitHub, Prettier, ESLint
+- **🛠 Utilities**: VS Code, Vim, Bash
+- **⚙️ Platforms**: Eleventy, Netlify, Contentful
+- **🚀 Other**: Git wizardry, Security (OverTheWire, TryHackMe, HackTheBox, etc)
 
 ## Recent Work
 
