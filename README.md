@@ -1,6 +1,6 @@
-## About Me
+# About Me
 
-My name's Ian MacIntosh, I help engineering teams perform even better. My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects.
+My name's Ian MacIntosh, I help engineering teams perform even better.
 
 # Things I Like Working With
 
@@ -14,15 +14,17 @@ My name's Ian MacIntosh, I help engineering teams perform even better. My last t
 
 ## Recent Work
 
-### ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
+My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects. It's hard to lead without the understanding you can only get from hands-on experience.
 
-TapCount is a utility app (Android | iOS | [Web](https://tapcount.ianjmacintosh.com/)) to help count anything and know how long counting took. I imagined this would just be an exercise app (_"How long does it takes to do 100 burpees?"_), but you can use it to measure anything where time matters.
+## ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
+
+TapCount is a utility app ([Android](https://play.google.com/store/apps/details?id=com.ianjmacintosh.tapcount) | iOS | [Web](https://tapcount.ianjmacintosh.com/)) to help count anything and know how long counting took. I imagined this would just be an exercise app (_"How long does it takes to do 100 burpees?"_), but you can use it to measure anything where time matters.
 
 - Built with React
 - Tested with Jest and Testing Library (81.7% code coverage)
 - Transpiled for Android and iOS using Apache Cordova
 
-### 🕹 [Pozo](https://pozo.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/pozo))
+## 🕹 [Pozo](https://pozo.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/pozo))
 
 After finishing Wes Bos's premium React course, I built something on my own: a clone of a 1990's console arcade puzzle game. I learned a lot on the way by playing the role of lead developer, designer, sound engineer, project manager, and quality engineer.
 
@@ -31,7 +33,7 @@ After finishing Wes Bos's premium React course, I built something on my own: a c
 - Animated SVGs using Greensock (GSAP)
 - Layout managed with CSS Grid
 
-### 🎩 [Ian J MacIntosh.com](https://www.ianjmacintosh.com)
+## 🎩 [Ian J MacIntosh.com](https://www.ianjmacintosh.com)
 
 I built my personal site to share knowledge, ranging from technical _How To_ guides to travel advice. I made my site fast, secure, and cheap by using the JAMstack. I made testing and deploying an absolute breeze by taking advantage of modern pipeline tooling.
 
