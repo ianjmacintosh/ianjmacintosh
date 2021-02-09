@@ -1,4 +1,4 @@
-# About Me
+# 👨🏼‍💻 About Me
 
 My name's Ian MacIntosh, I help engineering teams perform even better by improving the everyday _stuff_ that makes up the developer experience. I strive to keep everything as simple as possible so people can focus on their work instead of tooling.
 
