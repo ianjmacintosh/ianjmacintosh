@@ -1,12 +1,18 @@
 # About Me
 
-My name's Ian MacIntosh, I help engineering teams perform even better. This means focusing on the everyday stuff, so the easy things are easy and the hard things are possible. I demonstrate how to practice good Git habits, make tickets easy to write and easier to read, perform regular code reviews with clear feedback, ensure preview environments are quickly and reliably deployed, and write documentation that reads like a series of useful tweets instead of a series of classic textbooks.
+My name's Ian MacIntosh, I help engineering teams perform even better by improving the everyday _stuff_ that makes up the developer experience. I strive to keep everything as simple as possible so people can focus on their work instead of tooling.
 
 _"If you don't actively fight for simplicity in software, complexity will win... and it will suck."_— [Henrik Joreteg](https://joreteg.com/blog/architecting-uis-for-change)
 
-My last title was "Architect" and before that was "Principal Software Engineer," but I still like getting my hands dirty with personal projects. It's hard to lead without the understanding you can only get from hands-on experience.
+You'll usually find me:
 
-# Things I Like Working With
+- Working with DevOps teams to ensure preview environments are quickly and reliably deployed
+- Demonstrating good Git habits — and showing how to clean up messes without losing all your work
+- Identifying opportunities to keep the team's tools and skills aligned with what's available today
+- Keeping code reviews moving along with clear feedback instead of getting stuck in _In Review_ purgatory
+- Writing documentation that reads like a series of useful tweets instead of a series of classic textbooks
+
+# Stuff I Like Working With
 
 - **#️⃣ Scripting**: React, Nunjucks, npm
 - **🎨 Styling**: CSS Grid, Sass/SCSS
