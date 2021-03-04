@@ -1,13 +1,13 @@
 # 👨🏼‍💻 About Me
 
-My name's Ian MacIntosh, I help engineering teams perform even better by improving the everyday _stuff_ that makes up the developer experience. I strive to keep everything as simple as possible so people can focus on their work instead of tooling.
+My name's Ian MacIntosh, **I help great engineering teams perform even better** by improving the everyday _stuff_ that makes up the developer experience. <!-- Link to article that tells about times I've done this --> I want your team to get traction, maintain focus, and do all the amazing work it was meant to do. Let me help by cleaning up all the time-consuming baggage that your team is way too busy to deal with.
 
 > "If you don't actively fight for simplicity in software, complexity will win... and it will suck."— _[Henrik Joreteg](https://joreteg.com/blog/architecting-uis-for-change)_
 
 You'll usually find me:
 
 - Working with DevOps teams to ensure preview environments are quickly and reliably deployed
-- Demonstrating good Git habits — and showing how to clean up messes without losing all your work
+- Demonstrating good Git habits and showing how to clean up messes without losing all your work
 - Identifying opportunities to keep the team's tools and skills aligned with what's available today
 - Keeping code reviews moving along with clear feedback instead of getting stuck in _In Review_ purgatory
 - Writing documentation that reads like a series of useful tweets instead of a series of classic textbooks
