@@ -24,6 +24,17 @@ My last titles were "Architect" and "Principal Software Engineer," where I provi
 - **⚙️ Platforms**: [Eleventy](https://www.11ty.dev/), [Netlify](https://www.netlify.com/), [Contentful](https://www.contentful.com/)
 - **🚀 Other**: Writing docs, studying to be a Git wizard, security/pentesting ([OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.eu/), etc)
 
+## ⛽️ [GasCo.st](https://gasco.st/) ([source](https://www.github.com/ianjmacintosh/usdgal))
+
+Instantly convert gasoline prices listed in liters or gallons and foreign currencies.
+
+What started as a simple calcluator blossomed into a passion project. [Learn why I wanted to build something great](https://www.ianjmacintosh.com/articles/introducing-gascost/).
+
+- Built with TypeScript, React v18, Vite, and React Router v7 (aka "React Remix v3")
+- Super accessible/usable-for-everyone components courtesy of Ariakit
+- Unit and integration tests with Vitest
+- End-to-End ("E2E") tests with Playwright
+
 ## ⏱ [TapCount](https://tapcount.ianjmacintosh.com/) ([source](https://www.github.com/ianjmacintosh/tapcount))
 
 TapCount is a utility app ([Android](https://play.google.com/store/apps/details?id=com.ianjmacintosh.tapcount) | iOS | [Web](https://tapcount.ianjmacintosh.com/)) to help count anything and know how long counting took. I imagined this would just be an exercise app (_"How long does it takes to do 100 burpees?"_), but you can use it to measure anything where time matters.
@@ -37,7 +48,7 @@ TapCount is a utility app ([Android](https://play.google.com/store/apps/details?
 
 After finishing Wes Bos's premium React course, I built something on my own: a clone of a 1990's console arcade puzzle game. I learned a lot on the way by playing the role of lead developer, designer, sound engineer, project manager, and quality engineer.
 
-- Built with React
+- Built with React v16 (like, with classes... and no hooks)
 - Unit tested with Jest
 - Animated SVGs using Greensock (GSAP)
 - Layout managed with CSS Grid
