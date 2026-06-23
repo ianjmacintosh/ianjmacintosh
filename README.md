@@ -24,6 +24,15 @@ My last titles were "Architect" and "Principal Software Engineer," where I provi
 - **⚙️ Platforms**: [Eleventy](https://www.11ty.dev/), [Netlify](https://www.netlify.com/), [Contentful](https://www.contentful.com/)
 - **🚀 Other**: Writing docs, studying to be a Git wizard, security/pentesting ([OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/), [HackTheBox](https://www.hackthebox.eu/), etc)
 
+## 🛟 [EmergencyNumbers](https://emergencynumbers.info/) ([source](https://www.github.com/ianjmacintosh/emergencynumbers))
+
+Police, fire, and ambulance phone numbers for 242 countries and territories. No ads, no signup.
+
+- Built to give life-saving information to users as fast as possible
+- Accessible for everyone without sacrificing visual appeal, meeting or exceeding WCAG 2.2 AA success criteria
+- Secure by default with CSP headers, CORS protection, and HTTPS-only strict transport security (HSTS)
+- Tech stack: TypeScript, React, Vite, Cloudflare Workers, Playwright, and Vitest
+
 ## ⛽️ [GasCo.st](https://gasco.st/) ([source](https://www.github.com/ianjmacintosh/usdgal))
 
 Instantly convert gasoline prices listed in liters or gallons and foreign currencies.
